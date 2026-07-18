@@ -1,5 +1,19 @@
 # Agent Work Designer Skill
 
+## 中文简介
+
+Agent Work Designer 是一个用于「设计 AI Agent 工作说明书」的 Codex Skill。
+
+它不直接替用户完成任务，而是先把模糊的自然语言需求整理成一份结构完整、可执行、可验收的 Agent Work Prompt，帮助 Agent 明确背景、目标、输入资料、执行流程、输出格式、验收标准和权限边界。
+
+适合用于以下场景：
+
+- 把一个粗略想法改写成 Agent 可以执行的工作提示词
+- 在执行复杂任务前，先澄清目标、资料和交付标准
+- 为研究、内容创作、竞品分析、自动化流程等任务设计工作说明书
+- 给高质量任务加入自查、迭代和停止条件
+- 将高频任务沉淀为可复用的 Skill 或自动化流程
+
 Agent Work Designer is a Codex skill for turning fuzzy natural-language requests into structured, executable, and evaluable Agent Work Prompts.
 
 It is designed for moments when a user does not yet need the agent to execute the work. Instead, they need the work itself to be clarified: goal, inputs, workflow, output, evaluation, permissions, and quality loop.
