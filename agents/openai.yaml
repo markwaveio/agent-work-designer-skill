@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Work Designer"
+  short_description: "Turn fuzzy requests into executable agent work prompts."
+  default_prompt: "Help me turn this rough request into a complete Agent Work Prompt with workflow, evaluation, permissions, and output format."
